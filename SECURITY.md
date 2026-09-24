@@ -35,5 +35,5 @@ Reporters are credited in the published advisory unless they ask not to be.
 ## Scope
 
 This policy applies to all repositories under
-[erts-sched](https://github.com/erts-sched) that do not include a security
+[NoneSilva](https://github.com/NoneSilva) that do not include a security
 policy of their own.
